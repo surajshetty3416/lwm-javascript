@@ -5,7 +5,7 @@
  - [The Setup](#the-setup)
  - [Name value pairs](#name-value-pairs)
  - [Objects](#objects)
- - [Execution Context](#execution-context)
+ - [Global Execution Context](#global-execution-context)
 
 ###The Setup
  - Browser ([Chrome](https://www.google.com/chrome/browser/desktop/ "Yeah! It's free .. It always was") Recommended) - to run javascript code
@@ -33,3 +33,12 @@ var obj = {
 }
 ~~~
 
+### Global Execution Context
+
+Whenever the js code runs, it runs inside the execution context.
+
+All the JS code is wrapped (by js engine) within an execution context which by default creates two things:
+    1: Global Object like 'window'
+    2: 'this' which usually points to window (when in global execution context)
+
+[Explanation link](http://jsbin.com/mezamu/edit?js,console)
