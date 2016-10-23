@@ -53,4 +53,5 @@ variable and function declarations are physically moved to the top your coding, 
 what happens at all. What does happen is the variable and function declarations are put into memory
 during the compile phase, but stays exactly where you typed it in your coding.
 
-[Explanation Link](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
+[Explanation Link](https://jsbin.com/qitaneh/edit?js,console)
+[extra read](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
