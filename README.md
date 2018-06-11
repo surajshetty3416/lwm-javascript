@@ -1,14 +1,14 @@
-###Learn With Me - JavaScript
+### Learn With Me - JavaScript
 >( Reference -- Tutorials by Tony Alicea on Javascript)
 
-##Contents
+## Contents
  - [The Setup](#the-setup)
  - [Name value pairs](#name-value-pairs)
  - [Objects](#objects)
  - [Global Execution Context](#global-execution-context)
  - [Hoisting](hoisting/hoisting.md)
 
-###The Setup
+### The Setup
  - Browser ([Chrome](https://www.google.com/chrome/browser/desktop/ "Yeah! It's free .. It always was") Recommended) - to run javascript code
  - Text Editor (eg. [Sublime Text](https://www.sublimetext.com/3 "Download one of the best editor")) - To edit code :P
 
